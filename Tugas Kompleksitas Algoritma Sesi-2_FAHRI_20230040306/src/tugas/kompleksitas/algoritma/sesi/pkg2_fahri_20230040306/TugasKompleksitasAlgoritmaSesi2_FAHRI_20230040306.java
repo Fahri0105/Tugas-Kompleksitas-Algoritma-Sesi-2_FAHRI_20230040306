@@ -25,3 +25,9 @@ public class TugasKompleksitasAlgoritmaSesi2_FAHRI_20230040306 {
     }
     
 }
+
+// Analisa kompleksitas algoritma dari programan ini
+// - Waktu (Time Complexity): Kompleksitas waktu adalah O(1), karena operasi perkalian dilakukan sekali
+// - Ruang (Space Complexity): Kompleksitas ruang adalah O(1), karena hanya memerlukan ruang untuk variabel number dan hasil.
+
+// Simulasi perhitungan data : pada setiap iterasi program menambahkan nilai number ke dalam variabel bilangan. Berikut adalah simulasi perhitungan untuk input number = 20:
